@@ -37,3 +37,8 @@ This will download and extract the course data for you.
     ```bash
     git push origin main
     ```
+8. To get new changes to the repo, at the command line, run
+    ```bash
+    git pull --rebase
+    ```
+
