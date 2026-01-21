@@ -23,7 +23,7 @@ This will download and extract the course data for you.
    ```bash
    git clone https://github.com/<your GitHub username>/scratchpad
    ```
-3. Open `scratchpad` in your Code Server session
+3. Open the `scratchpad` folder in your Code Server session
 4. At the command line, run
    ```bash
    bash build.sh
